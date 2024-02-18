@@ -1,0 +1,2852 @@
+23 288114 303641
+1 1 24926
+19 265954 271866
+10 168043 181596
+12 195098 208483
+18 258146 265953
+11 181597 195097
+17 250026 258145
+21 278170 282982
+20 271867 278169
+7 123370 139283
+8 139284 153920
+15 230736 240989
+14 220001 230735
+13 208484 220000
+2 24927 49246
+16 240990 250025
+4 69050 88165
+3 49247 69049
+6 106258 123369
+5 88166 106257
+9 153921 168042
+22 282983 288113
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	13m3.225s
+user	8m45.996s
+sys	0m0.296s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	15m7.907s
+user	10m3.184s
+sys	0m0.112s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	19m26.176s
+user	13m32.366s
+sys	0m0.152s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	21m53.950s
+user	15m22.875s
+sys	0m0.168s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	32m47.752s
+user	24m12.559s
+sys	0m0.188s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	34m49.718s
+user	26m13.528s
+sys	0m0.196s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	41m30.014s
+user	32m40.736s
+sys	0m0.283s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	51m35.779s
+user	42m9.946s
+sys	0m0.319s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	55m45.687s
+user	46m3.054s
+sys	0m0.287s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	62m15.967s
+user	52m39.024s
+sys	0m0.288s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	77m20.101s
+user	68m5.137s
+sys	0m0.272s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	79m30.984s
+user	70m0.304s
+sys	0m0.379s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	80m23.472s
+user	71m1.517s
+sys	0m0.376s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	82m6.917s
+user	72m49.911s
+sys	0m0.272s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	87m51.073s
+user	77m47.680s
+sys	0m0.284s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	95m29.392s
+user	86m20.397s
+sys	0m0.404s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	96m8.944s
+user	86m47.008s
+sys	0m0.368s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	102m49.786s
+user	93m39.292s
+sys	0m0.432s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	109m30.132s
+user	99m28.204s
+sys	0m0.300s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	115m49.764s
+user	106m33.681s
+sys	0m0.568s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	122m46.784s
+user	113m36.083s
+sys	0m0.344s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	150m51.567s
+user	141m26.361s
+sys	0m0.504s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	157m20.078s
+user	148m3.998s
+sys	0m0.688s
+2 24927 49246
+7 123370 139283
+5 88166 106257
+6 106258 123369
+23 288114 303641
+22 282983 288113
+12 195098 208483
+16 240990 250025
+19 265954 271866
+10 168043 181596
+3 49247 69049
+13 208484 220000
+1 1 24926
+11 181597 195097
+4 69050 88165
+21 278170 282982
+20 271867 278169
+9 153921 168042
+18 258146 265953
+8 139284 153920
+17 250026 258145
+15 230736 240989
+14 220001 230735
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	12m40.689s
+user	8m43.887s
+sys	0m0.104s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	14m17.983s
+user	9m57.779s
+sys	0m0.104s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	18m55.507s
+user	13m25.153s
+sys	0m0.132s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	21m35.021s
+user	15m26.560s
+sys	0m0.144s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	32m18.540s
+user	24m8.456s
+sys	0m0.280s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	34m42.681s
+user	26m14.302s
+sys	0m0.172s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	41m40.016s
+user	32m39.561s
+sys	0m0.351s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	51m27.445s
+user	42m14.338s
+sys	0m0.343s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	55m27.206s
+user	46m30.293s
+sys	0m0.263s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	61m46.088s
+user	53m7.071s
+sys	0m0.384s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	77m4.797s
+user	68m2.763s
+sys	0m0.471s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	77m34.067s
+user	69m1.583s
+sys	0m0.376s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	78m26.444s
+user	69m9.697s
+sys	0m0.336s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	85m4.416s
+user	75m32.383s
+sys	0m0.312s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	87m22.940s
+user	78m19.114s
+sys	0m0.328s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	94m47.835s
+user	85m45.950s
+sys	0m0.440s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	96m7.357s
+user	86m52.434s
+sys	0m0.404s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	103m18.838s
+user	94m0.410s
+sys	0m0.400s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	109m24.098s
+user	100m35.095s
+sys	0m0.803s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	117m2.285s
+user	107m51.968s
+sys	0m0.336s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	119m57.302s
+user	110m49.034s
+sys	0m2.038s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	150m36.420s
+user	142m3.381s
+sys	0m0.596s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	158m12.988s
+user	149m10.720s
+sys	0m0.456s
+2 24927 49246
+12 195098 208483
+14 220001 230735
+7 123370 139283
+5 88166 106257
+1 1 24926
+3 49247 69049
+19 265954 271866
+11 181597 195097
+9 153921 168042
+8 139284 153920
+20 271867 278169
+18 258146 265953
+6 106258 123369
+21 278170 282982
+4 69050 88165
+10 168043 181596
+22 282983 288113
+13 208484 220000
+17 250026 258145
+16 240990 250025
+15 230736 240989
+23 288114 303641
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	1m41.735s
+user	1m41.680s
+sys	0m0.044s
+rm: cannot remove 'tempcoor/[1-9]*_chr21.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	1m57.483s
+user	1m57.449s
+sys	0m0.025s
+rm: cannot remove 'tempcoor/[1-9]*_chr22.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	2m39.658s
+user	2m39.495s
+sys	0m0.124s
+rm: cannot remove 'tempcoor/[1-9]*_chr19.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	3m16.627s
+user	3m16.506s
+sys	0m0.056s
+rm: cannot remove 'tempcoor/[1-9]*_chr20.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	4m38.398s
+user	4m38.199s
+sys	0m0.172s
+rm: cannot remove 'tempcoor/[1-9]*_chr18.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	4m47.447s
+user	4m46.636s
+sys	0m0.184s
+rm: cannot remove 'tempcoor/[1-9]*_chr17.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	5m54.198s
+user	5m53.924s
+sys	0m0.248s
+rm: cannot remove 'tempcoor/[1-9]*_chr16.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	7m13.038s
+user	7m12.631s
+sys	0m0.324s
+rm: cannot remove 'tempcoor/[1-9]*_chr15.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	9m7.393s
+user	9m5.323s
+sys	0m0.439s
+rm: cannot remove 'tempcoor/[1-9]*_chr14.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	9m31.195s
+user	9m30.969s
+sys	0m0.092s
+rm: cannot remove 'tempcoor/[1-9]*_chr13.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	13m19.069s
+user	13m18.240s
+sys	0m0.516s
+rm: cannot remove 'tempcoor/[1-9]*_chr11.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	13m58.270s
+user	13m57.700s
+sys	0m0.300s
+rm: cannot remove 'tempcoor/[1-9]*_chr12.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	14m15.929s
+user	14m15.601s
+sys	0m0.264s
+rm: cannot remove 'tempcoor/[1-9]*_chr10.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	15m26.607s
+user	15m26.193s
+sys	0m0.321s
+rm: cannot remove 'tempcoor/[1-9]*_chr9.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	15m34.365s
+user	15m33.890s
+sys	0m0.364s
+rm: cannot remove 'tempcoor/[1-9]*_chr8.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	16m58.489s
+user	16m58.136s
+sys	0m0.329s
+rm: cannot remove 'tempcoor/[1-9]*_chr23.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	19m38.244s
+user	19m37.808s
+sys	0m0.380s
+rm: cannot remove 'tempcoor/[1-9]*_chr7.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	23m27.552s
+user	23m27.077s
+sys	0m0.333s
+rm: cannot remove 'tempcoor/[1-9]*_chr6.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	24m57.003s
+user	24m56.495s
+sys	0m0.420s
+rm: cannot remove 'tempcoor/[1-9]*_chr5.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	28m9.974s
+user	28m9.803s
+sys	0m0.172s
+rm: cannot remove 'tempcoor/[1-9]*_chr4.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	32m18.197s
+user	32m17.664s
+sys	0m0.532s
+rm: cannot remove 'tempcoor/[1-9]*_chr3.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	43m55.235s
+user	43m54.673s
+sys	0m0.568s
+rm: cannot remove 'tempcoor/[1-9]*_chr1.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	46m4.191s
+user	46m3.974s
+sys	0m0.216s
+rm: cannot remove 'tempcoor/[1-9]*_chr2.dat': No such file or directory
+18 258146 265953
+14 220001 230735
+2 24927 49246
+9 153921 168042
+12 195098 208483
+16 240990 250025
+11 181597 195097
+8 139284 153920
+5 88166 106257
+21 278170 282982
+6 106258 123369
+1 1 24926
+13 208484 220000
+20 271867 278169
+23 288114 303641
+4 69050 88165
+17 250026 258145
+3 49247 69049
+19 265954 271866
+22 282983 288113
+15 230736 240989
+7 123370 139283
+10 168043 181596
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	1m50.536s
+user	1m31.079s
+sys	0m0.147s
+rm: cannot remove 'tempcoor/[1-9]*_chr11.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	1m57.725s
+user	1m45.843s
+sys	0m0.055s
+rm: cannot remove 'tempcoor/[1-9]*_chr21.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	2m8.770s
+user	1m58.213s
+sys	0m0.127s
+rm: cannot remove 'tempcoor/[1-9]*_chr22.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	2m52.114s
+user	2m37.060s
+sys	0m0.183s
+rm: cannot remove 'tempcoor/[1-9]*_chr19.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	2m54.207s
+user	2m40.133s
+sys	0m1.562s
+rm: cannot remove 'tempcoor/[1-9]*_chr1.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	3m29.072s
+user	3m12.152s
+sys	0m0.151s
+rm: cannot remove 'tempcoor/[1-9]*_chr20.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	4m43.150s
+user	4m34.282s
+sys	0m0.100s
+rm: cannot remove 'tempcoor/[1-9]*_chr18.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	5m0.954s
+user	4m48.209s
+sys	0m0.203s
+rm: cannot remove 'tempcoor/[1-9]*_chr17.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	6m8.879s
+user	5m47.168s
+sys	0m0.383s
+rm: cannot remove 'tempcoor/[1-9]*_chr16.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	6m17.626s
+user	6m10.655s
+sys	0m0.144s
+rm: cannot remove 'tempcoor/[1-9]*_chr9.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	7m19.961s
+user	7m3.016s
+sys	0m0.144s
+rm: cannot remove 'tempcoor/[1-9]*_chr15.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	9m7.604s
+user	8m52.238s
+sys	0m0.152s
+rm: cannot remove 'tempcoor/[1-9]*_chr14.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	9m39.235s
+user	9m28.682s
+sys	0m0.351s
+rm: cannot remove 'tempcoor/[1-9]*_chr13.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	12m22.283s
+user	11m58.837s
+sys	0m0.196s
+rm: cannot remove 'tempcoor/[1-9]*_chr6.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	14m11.296s
+user	13m45.332s
+sys	0m1.293s
+rm: cannot remove 'tempcoor/[1-9]*_chr12.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	14m16.743s
+user	14m1.645s
+sys	0m0.356s
+rm: cannot remove 'tempcoor/[1-9]*_chr10.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	15m19.722s
+user	15m10.949s
+sys	0m0.352s
+rm: cannot remove 'tempcoor/[1-9]*_chr8.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	17m3.537s
+user	16m55.201s
+sys	0m0.487s
+rm: cannot remove 'tempcoor/[1-9]*_chr23.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	19m22.906s
+user	19m15.464s
+sys	0m0.416s
+rm: cannot remove 'tempcoor/[1-9]*_chr7.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	25m56.627s
+user	25m45.565s
+sys	0m0.188s
+rm: cannot remove 'tempcoor/[1-9]*_chr5.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	28m32.876s
+user	28m12.308s
+sys	0m0.192s
+rm: cannot remove 'tempcoor/[1-9]*_chr4.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	33m12.650s
+user	32m57.483s
+sys	0m0.224s
+rm: cannot remove 'tempcoor/[1-9]*_chr3.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	47m8.354s
+user	46m59.276s
+sys	0m0.504s
+rm: cannot remove 'tempcoor/[1-9]*_chr2.dat': No such file or directory
+1 1 24926
+12 195098 208483
+6 106258 123369
+2 24927 49246
+15 230736 240989
+19 265954 271866
+22 282983 288113
+16 240990 250025
+9 153921 168042
+17 250026 258145
+8 139284 153920
+14 220001 230735
+5 88166 106257
+23 288114 303641
+11 181597 195097
+21 278170 282982
+3 49247 69049
+18 258146 265953
+13 208484 220000
+20 271867 278169
+4 69050 88165
+10 168043 181596
+7 123370 139283
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	4m52.376s
+user	4m52.238s
+sys	0m0.128s
+rm: cannot remove 'tempcoor/[1-9]*_chr21.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	5m15.832s
+user	5m15.729s
+sys	0m0.100s
+rm: cannot remove 'tempcoor/[1-9]*_chr22.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	7m25.797s
+user	7m25.652s
+sys	0m0.136s
+rm: cannot remove 'tempcoor/[1-9]*_chr19.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	8m46.881s
+user	8m46.696s
+sys	0m0.152s
+rm: cannot remove 'tempcoor/[1-9]*_chr20.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	10m20.743s
+user	10m20.476s
+sys	0m0.252s
+rm: cannot remove 'tempcoor/[1-9]*_chr9.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	12m55.621s
+user	12m55.416s
+sys	0m0.192s
+rm: cannot remove 'tempcoor/[1-9]*_chr18.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	13m36.177s
+user	13m35.965s
+sys	0m0.196s
+rm: cannot remove 'tempcoor/[1-9]*_chr17.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	16m45.774s
+user	16m45.610s
+sys	0m0.152s
+rm: cannot remove 'tempcoor/[1-9]*_chr16.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	20m29.254s
+user	20m28.997s
+sys	0m0.216s
+rm: cannot remove 'tempcoor/[1-9]*_chr15.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	24m38.555s
+user	24m38.262s
+sys	0m0.216s
+rm: cannot remove 'tempcoor/[1-9]*_chr14.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	27m16.102s
+user	27m15.777s
+sys	0m0.280s
+rm: cannot remove 'tempcoor/[1-9]*_chr13.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	38m7.581s
+user	38m6.758s
+sys	0m0.792s
+rm: cannot remove 'tempcoor/[1-9]*_chr11.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	39m22.577s
+user	39m21.893s
+sys	0m0.660s
+rm: cannot remove 'tempcoor/[1-9]*_chr12.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	40m22.372s
+user	40m21.494s
+sys	0m0.860s
+rm: cannot remove 'tempcoor/[1-9]*_chr10.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	43m47.251s
+user	43m46.557s
+sys	0m0.672s
+rm: cannot remove 'tempcoor/[1-9]*_chr8.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	49m28.887s
+user	49m27.833s
+sys	0m0.768s
+rm: cannot remove 'tempcoor/[1-9]*_chr23.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	55m41.635s
+user	55m40.322s
+sys	0m1.056s
+rm: cannot remove 'tempcoor/[1-9]*_chr7.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	73m30.788s
+user	73m30.071s
+sys	0m0.756s
+rm: cannot remove 'tempcoor/[1-9]*_chr6.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	73m56.268s
+user	73m37.101s
+sys	0m19.197s
+rm: cannot remove 'tempcoor/[1-9]*_chr2.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	83m38.689s
+user	83m37.736s
+sys	0m0.960s
+rm: cannot remove 'tempcoor/[1-9]*_chr5.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	93m16.926s
+user	93m16.088s
+sys	0m0.852s
+rm: cannot remove 'tempcoor/[1-9]*_chr4.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	101m8.094s
+user	101m0.968s
+sys	0m6.155s
+rm: cannot remove 'tempcoor/[1-9]*_chr3.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	157m30.605s
+user	157m15.851s
+sys	0m13.911s
+rm: cannot remove 'tempcoor/[1-9]*_chr1.dat': No such file or directory
+20 271867 278169
+4 69050 88165
+15 230736 240989
+1 1 24926
+3 49247 69049
+10 168043 181596
+2 24927 49246
+19 265954 271866
+17 250026 258145
+6 106258 123369
+22 282983 288113
+7 123370 139283
+16 240990 250025
+18 258146 265953
+11 181597 195097
+8 139284 153920
+12 195098 208483
+13 208484 220000
+23 288114 303641
+5 88166 106257
+21 278170 282982
+9 153921 168042
+14 220001 230735
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	5m39.733s
+user	5m29.032s
+sys	0m0.302s
+rm: cannot remove 'tempcoor/[1-9]*_chr21.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	6m11.748s
+user	5m58.690s
+sys	0m0.330s
+rm: cannot remove 'tempcoor/[1-9]*_chr22.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	8m39.179s
+user	8m24.981s
+sys	0m0.462s
+rm: cannot remove 'tempcoor/[1-9]*_chr19.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	10m0.224s
+user	9m46.473s
+sys	0m0.427s
+rm: cannot remove 'tempcoor/[1-9]*_chr20.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	14m39.954s
+user	14m25.592s
+sys	0m0.599s
+rm: cannot remove 'tempcoor/[1-9]*_chr18.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	15m28.863s
+user	15m8.754s
+sys	0m1.141s
+rm: cannot remove 'tempcoor/[1-9]*_chr17.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	18m55.947s
+user	18m40.172s
+sys	0m0.659s
+rm: cannot remove 'tempcoor/[1-9]*_chr16.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	23m20.321s
+user	23m10.559s
+sys	0m0.711s
+rm: cannot remove 'tempcoor/[1-9]*_chr15.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	26m32.795s
+user	26m18.063s
+sys	0m0.684s
+rm: cannot remove 'tempcoor/[1-9]*_chr14.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	29m32.792s
+user	29m17.721s
+sys	0m0.635s
+rm: cannot remove 'tempcoor/[1-9]*_chr13.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	40m49.818s
+user	40m37.307s
+sys	0m0.780s
+rm: cannot remove 'tempcoor/[1-9]*_chr11.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	42m43.153s
+user	42m32.154s
+sys	0m0.856s
+rm: cannot remove 'tempcoor/[1-9]*_chr12.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	42m43.321s
+user	42m23.803s
+sys	0m1.275s
+rm: cannot remove 'tempcoor/[1-9]*_chr10.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	46m20.786s
+user	46m6.368s
+sys	0m0.828s
+rm: cannot remove 'tempcoor/[1-9]*_chr9.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	46m26.346s
+user	46m10.255s
+sys	0m1.459s
+rm: cannot remove 'tempcoor/[1-9]*_chr8.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	52m49.306s
+user	52m38.452s
+sys	0m0.939s
+rm: cannot remove 'tempcoor/[1-9]*_chr23.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	58m55.736s
+user	58m40.769s
+sys	0m0.904s
+rm: cannot remove 'tempcoor/[1-9]*_chr7.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	77m55.551s
+user	77m37.690s
+sys	0m2.419s
+rm: cannot remove 'tempcoor/[1-9]*_chr6.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	87m40.692s
+user	87m24.501s
+sys	0m2.068s
+rm: cannot remove 'tempcoor/[1-9]*_chr5.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	98m45.531s
+user	98m28.371s
+sys	0m2.036s
+rm: cannot remove 'tempcoor/[1-9]*_chr4.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	104m51.504s
+user	104m23.274s
+sys	0m18.258s
+rm: cannot remove 'tempcoor/[1-9]*_chr3.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	160m51.076s
+user	159m31.853s
+sys	1m6.749s
+rm: cannot remove 'tempcoor/[1-9]*_chr1.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	176m38.738s
+user	175m50.868s
+sys	0m36.208s
+rm: cannot remove 'tempcoor/[1-9]*_chr2.dat': No such file or directory
+23 288114 303641
+15 230736 240989
+11 181597 195097
+12 195098 208483
+1 1 24926
+10 168043 181596
+19 265954 271866
+17 250026 258145
+5 88166 106257
+6 106258 123369
+8 139284 153920
+22 282983 288113
+3 49247 69049
+21 278170 282982
+9 153921 168042
+7 123370 139283
+18 258146 265953
+2 24927 49246
+14 220001 230735
+20 271867 278169
+16 240990 250025
+13 208484 220000
+4 69050 88165
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	9m20.051s
+user	4m40.411s
+sys	0m0.108s
+rm: cannot remove 'tempcoor/[1-9]*_chr21.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	10m51.505s
+user	5m10.827s
+sys	0m0.117s
+rm: cannot remove 'tempcoor/[1-9]*_chr22.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	14m4.101s
+user	7m8.230s
+sys	0m0.192s
+rm: cannot remove 'tempcoor/[1-9]*_chr19.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	16m54.499s
+user	8m39.315s
+sys	0m0.384s
+rm: cannot remove 'tempcoor/[1-9]*_chr20.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	22m56.375s
+user	12m37.443s
+sys	0m0.180s
+rm: cannot remove 'tempcoor/[1-9]*_chr18.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	22m57.757s
+user	13m18.126s
+sys	0m0.180s
+rm: cannot remove 'tempcoor/[1-9]*_chr17.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	28m19.308s
+user	16m27.276s
+sys	0m0.224s
+rm: cannot remove 'tempcoor/[1-9]*_chr16.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	35m55.842s
+user	23m35.968s
+sys	0m0.501s
+rm: cannot remove 'tempcoor/[1-9]*_chr14.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	36m54.193s
+user	20m13.914s
+sys	0m0.778s
+rm: cannot remove 'tempcoor/[1-9]*_chr15.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	43m15.400s
+user	26m15.669s
+sys	0m0.393s
+rm: cannot remove 'tempcoor/[1-9]*_chr13.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	50m32.960s
+user	37m34.239s
+sys	0m0.324s
+rm: cannot remove 'tempcoor/[1-9]*_chr11.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	51m38.043s
+user	37m52.777s
+sys	0m1.365s
+rm: cannot remove 'tempcoor/[1-9]*_chr12.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	55m4.686s
+user	39m24.543s
+sys	0m0.316s
+rm: cannot remove 'tempcoor/[1-9]*_chr10.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	58m59.371s
+user	43m12.687s
+sys	0m0.381s
+rm: cannot remove 'tempcoor/[1-9]*_chr9.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	59m26.236s
+user	42m48.033s
+sys	0m1.280s
+rm: cannot remove 'tempcoor/[1-9]*_chr8.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	64m47.908s
+user	47m28.662s
+sys	0m1.449s
+rm: cannot remove 'tempcoor/[1-9]*_chr23.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	68m56.775s
+user	53m13.931s
+sys	0m1.826s
+rm: cannot remove 'tempcoor/[1-9]*_chr7.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	89m17.946s
+user	71m30.808s
+sys	0m1.108s
+rm: cannot remove 'tempcoor/[1-9]*_chr6.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	94m58.281s
+user	81m43.259s
+sys	0m1.445s
+rm: cannot remove 'tempcoor/[1-9]*_chr5.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	108m27.058s
+user	91m12.688s
+sys	0m1.676s
+rm: cannot remove 'tempcoor/[1-9]*_chr4.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	113m42.651s
+user	98m41.326s
+sys	0m1.092s
+rm: cannot remove 'tempcoor/[1-9]*_chr3.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	164m15.968s
+user	146m16.090s
+sys	0m2.348s
+rm: cannot remove 'tempcoor/[1-9]*_chr1.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	171m41.495s
+user	155m50.816s
+sys	0m1.788s
+rm: cannot remove 'tempcoor/[1-9]*_chr2.dat': No such file or directory
+1 1 24926
+6 106258 123369
+4 69050 88165
+3 49247 69049
+17 250026 258145
+2 24927 49246
+7 123370 139283
+15 230736 240989
+5 88166 106257
+9 153921 168042
+13 208484 220000
+19 265954 271866
+20 271867 278169
+18 258146 265953
+23 288114 303641
+16 240990 250025
+11 181597 195097
+14 220001 230735
+12 195098 208483
+8 139284 153920
+22 282983 288113
+21 278170 282982
+10 168043 181596
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	4m15.310s
+user	4m15.108s
+sys	0m0.201s
+rm: cannot remove 'tempcoor/[1-9]*_chr21.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	4m39.978s
+user	4m39.848s
+sys	0m0.116s
+rm: cannot remove 'tempcoor/[1-9]*_chr22.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	6m24.993s
+user	6m24.798s
+sys	0m0.196s
+rm: cannot remove 'tempcoor/[1-9]*_chr19.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	7m37.951s
+user	7m37.755s
+sys	0m0.188s
+rm: cannot remove 'tempcoor/[1-9]*_chr20.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	11m22.393s
+user	11m21.679s
+sys	0m0.684s
+rm: cannot remove 'tempcoor/[1-9]*_chr18.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	11m42.531s
+user	11m42.176s
+sys	0m0.336s
+rm: cannot remove 'tempcoor/[1-9]*_chr17.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	14m22.690s
+user	14m22.262s
+sys	0m0.432s
+rm: cannot remove 'tempcoor/[1-9]*_chr16.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	17m55.285s
+user	17m54.839s
+sys	0m0.436s
+rm: cannot remove 'tempcoor/[1-9]*_chr15.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	20m56.483s
+user	20m55.743s
+sys	0m0.708s
+rm: cannot remove 'tempcoor/[1-9]*_chr14.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	23m25.506s
+user	23m25.094s
+sys	0m0.412s
+rm: cannot remove 'tempcoor/[1-9]*_chr13.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	32m35.136s
+user	32m34.631s
+sys	0m0.520s
+rm: cannot remove 'tempcoor/[1-9]*_chr11.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	33m43.160s
+user	33m42.546s
+sys	0m0.600s
+rm: cannot remove 'tempcoor/[1-9]*_chr12.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	34m14.165s
+user	34m13.208s
+sys	0m0.800s
+rm: cannot remove 'tempcoor/[1-9]*_chr10.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	37m34.613s
+user	37m33.968s
+sys	0m0.661s
+rm: cannot remove 'tempcoor/[1-9]*_chr8.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	37m38.017s
+user	37m37.274s
+sys	0m0.728s
+rm: cannot remove 'tempcoor/[1-9]*_chr9.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	41m56.722s
+user	41m56.070s
+sys	0m0.624s
+rm: cannot remove 'tempcoor/[1-9]*_chr23.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	47m37.177s
+user	47m36.472s
+sys	0m0.684s
+rm: cannot remove 'tempcoor/[1-9]*_chr7.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	63m13.318s
+user	63m12.308s
+sys	0m1.032s
+rm: cannot remove 'tempcoor/[1-9]*_chr6.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	71m9.517s
+user	71m8.000s
+sys	0m1.404s
+rm: cannot remove 'tempcoor/[1-9]*_chr5.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	78m55.712s
+user	78m54.955s
+sys	0m0.805s
+rm: cannot remove 'tempcoor/[1-9]*_chr4.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	83m57.157s
+user	83m56.380s
+sys	0m0.820s
+rm: cannot remove 'tempcoor/[1-9]*_chr3.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	133m3.895s
+user	133m2.968s
+sys	0m1.020s
+rm: cannot remove 'tempcoor/[1-9]*_chr1.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	144m3.444s
+user	143m58.336s
+sys	0m5.200s
+rm: cannot remove 'tempcoor/[1-9]*_chr2.dat': No such file or directory
+4 69050 88165
+1 1 24926
+7 123370 139283
+2 24927 49246
+3 49247 69049
+6 106258 123369
+5 88166 106257
+8 139284 153920
+11 181597 195097
+10 168043 181596
+9 153921 168042
+13 208484 220000
+14 220001 230735
+16 240990 250025
+18 258146 265953
+15 230736 240989
+17 250026 258145
+19 265954 271866
+20 271867 278169
+22 282983 288113
+12 195098 208483
+21 278170 282982
+23 288114 303641
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	4m15.785s
+user	4m15.461s
+sys	0m0.296s
+rm: cannot remove 'tempcoor/[1-9]*_chr21.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	4m36.456s
+user	4m36.223s
+sys	0m0.232s
+rm: cannot remove 'tempcoor/[1-9]*_chr22.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	6m25.729s
+user	6m25.473s
+sys	0m0.260s
+rm: cannot remove 'tempcoor/[1-9]*_chr19.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	7m37.985s
+user	7m37.718s
+sys	0m0.272s
+rm: cannot remove 'tempcoor/[1-9]*_chr20.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	11m2.767s
+user	11m2.531s
+sys	0m0.240s
+rm: cannot remove 'tempcoor/[1-9]*_chr18.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	11m40.519s
+user	11m40.092s
+sys	0m0.436s
+rm: cannot remove 'tempcoor/[1-9]*_chr17.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	14m30.426s
+user	14m29.434s
+sys	0m0.972s
+rm: cannot remove 'tempcoor/[1-9]*_chr16.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	17m40.302s
+user	17m39.969s
+sys	0m0.348s
+rm: cannot remove 'tempcoor/[1-9]*_chr15.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	20m46.046s
+user	20m45.366s
+sys	0m0.680s
+rm: cannot remove 'tempcoor/[1-9]*_chr14.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	23m20.978s
+user	23m20.423s
+sys	0m0.536s
+rm: cannot remove 'tempcoor/[1-9]*_chr13.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	32m28.586s
+user	32m28.029s
+sys	0m0.576s
+rm: cannot remove 'tempcoor/[1-9]*_chr11.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	33m21.812s
+user	33m21.270s
+sys	0m0.560s
+rm: cannot remove 'tempcoor/[1-9]*_chr12.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	33m56.079s
+user	33m55.428s
+sys	0m0.644s
+rm: cannot remove 'tempcoor/[1-9]*_chr10.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	37m16.116s
+user	37m15.589s
+sys	0m0.548s
+rm: cannot remove 'tempcoor/[1-9]*_chr9.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	37m28.898s
+user	37m28.068s
+sys	0m0.572s
+rm: cannot remove 'tempcoor/[1-9]*_chr8.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	41m40.509s
+user	41m39.904s
+sys	0m0.621s
+rm: cannot remove 'tempcoor/[1-9]*_chr23.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	47m12.805s
+user	47m12.065s
+sys	0m0.764s
+rm: cannot remove 'tempcoor/[1-9]*_chr7.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	63m24.843s
+user	63m24.145s
+sys	0m0.705s
+rm: cannot remove 'tempcoor/[1-9]*_chr6.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	70m42.557s
+user	70m41.443s
+sys	0m0.881s
+rm: cannot remove 'tempcoor/[1-9]*_chr5.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	77m1.746s
+user	77m0.777s
+sys	0m0.956s
+rm: cannot remove 'tempcoor/[1-9]*_chr4.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	84m21.755s
+user	84m20.823s
+sys	0m0.968s
+rm: cannot remove 'tempcoor/[1-9]*_chr3.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	131m28.021s
+user	131m23.821s
+sys	0m4.228s
+rm: cannot remove 'tempcoor/[1-9]*_chr1.dat': No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	150m16.356s
+user	150m11.005s
+sys	0m5.436s
+rm: cannot remove 'tempcoor/[1-9]*_chr2.dat': No such file or directory
